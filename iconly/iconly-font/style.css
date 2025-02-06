@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'brands';
-  src:  url('fonts/brands.eot?x1pkjn');
-  src:  url('fonts/brands.eot?x1pkjn#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?x1pkjn') format('truetype'),
-    url('fonts/brands.woff?x1pkjn') format('woff'),
-    url('fonts/brands.svg?x1pkjn#brands') format('svg');
+  font-family: 'iconly';
+  src:  url('fonts/iconly.eot?r5d7zr');
+  src:  url('fonts/iconly.eot?r5d7zr#iefix') format('embedded-opentype'),
+    url('fonts/iconly.ttf?r5d7zr') format('truetype'),
+    url('fonts/iconly.woff?r5d7zr') format('woff'),
+    url('fonts/iconly.svg?r5d7zr#iconly') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'brands' !important;
+  font-family: 'iconly' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
