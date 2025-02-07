@@ -1,16 +1,16 @@
-// Place fonts/iconly.ttf in your fonts/ directory and
+// Place fonts/remix.ttf in your fonts/ directory and
 // add the following to your pubspec.yaml
 // flutter:
 //   fonts:
-//    - family: iconly
+//    - family: remix
 //      fonts:
-//       - asset: fonts/iconly.ttf
+//       - asset: fonts/remix.ttf
 import 'package:flutter/widgets.dart';
 
-class Iconly {
-  Iconly._();
+class Remix {
+  Remix._();
 
-  static const String _fontFamily = 'iconly';
+  static const String _fontFamily = 'remix';
 
   static const IconData remix4kFill = IconData(0xe900, fontFamily: _fontFamily);
   static const IconData remix4k = IconData(0xe901, fontFamily: _fontFamily);

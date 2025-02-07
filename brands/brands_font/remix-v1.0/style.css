@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'iconly';
-  src:  url('fonts/iconly.eot?6sxlap');
-  src:  url('fonts/iconly.eot?6sxlap#iefix') format('embedded-opentype'),
-    url('fonts/iconly.ttf?6sxlap') format('truetype'),
-    url('fonts/iconly.woff?6sxlap') format('woff'),
-    url('fonts/iconly.svg?6sxlap#iconly') format('svg');
+  font-family: 'remix';
+  src:  url('fonts/remix.eot?1q6kfk');
+  src:  url('fonts/remix.eot?1q6kfk#iefix') format('embedded-opentype'),
+    url('fonts/remix.ttf?1q6kfk') format('truetype'),
+    url('fonts/remix.woff?1q6kfk') format('woff'),
+    url('fonts/remix.svg?1q6kfk#remix') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'iconly' !important;
+  font-family: 'remix' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
